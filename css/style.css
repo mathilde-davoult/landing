@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,600;1,700&family=Parisienne&display=swap");
+
+@import url("components/container.css");
+@import url("components/feeling.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Parisienne', cursive;
+	font-size:  19px;
+	text-align: center;
+	background-color: #F7DBF0;
+	color: #B667F1;
+	margin: 0px;
+}
+
+h1{
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 38px;
+	color: #6867AC;
+}
+h2, h3 {
+	font-family: 'Cormorant Garamond', serif;
+	font-size: 24px;
+	background-color: ;
+	color:  #8A39E1;
+}
+
+h4 {
+	font-family: 'Parisienne', cursive;
+	font-weight: bolder;
+	font-size:  30px;
+	text-align: center;
+	color: rgb(191, 162, 219);
+	margin: 0px;
+}
+
+a{
+	text-decoration: none;
+	font-family: 'Cormorant Garamond', serif;
+}
+
+#before-button{
+	margin-bottom: 40px;
+}

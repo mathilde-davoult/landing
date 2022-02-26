@@ -1,0 +1,12 @@
+.btn-shine {
+	background-color: rgba(191, 162, 219,0.9);
+	padding: 10px 15px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+}
+
+.btn-shine:hover {
+	background-color: rgba(191, 162, 219,0.5);
+	color: white;
+}
